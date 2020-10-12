@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<big>
+<html>
+<head> <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+<title>  </title>
+</head> 
+<body>
+    <h1 style="color:rgba(7, 230, 55, 0.733);"> Hello everbody, welcome to my page </H1>
+         
+        
+<img src="images/Mama.jpg" style=" width: 200px; height: 200px;" alt="">
+
+<H3 style="color:rgba(88, 117, 209)" </H3><b>Hello everyone, My Name is Swarit</b></H3>
+
+<p style="color: rgba(135, 206, 250);"><br> I am very excited to tell u a bit about my self.</p> 
+
+</body>
+</html>
+
+</big>
