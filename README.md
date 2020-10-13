@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Jekyll v4.1.1">
-    <title>Cover Template · Bootstrap</title>
+    <title> My website </title>
     
     <h1 style="color:rgba(7, 230, 55, 0.733);"> Hello everbody, welcome to my page </H1>
          
